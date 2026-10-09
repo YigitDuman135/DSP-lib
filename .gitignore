@@ -1,0 +1,17 @@
+# Generated outputs (keep folders via .gitkeep)
+build/**
+!build/**/
+!build/**/.gitkeep
+test_results/
+test_vectors/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
